@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0a66e324-316d-4187-a246-1e7a0da294b1/resourceGroups/ProyectoWeb/providers/Microsoft.Web/sites/hostingApiWebIII",
+    "appService.deploySubpath": "."
+}
